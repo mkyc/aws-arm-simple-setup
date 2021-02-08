@@ -1,0 +1,5 @@
+/.idea/
+*rsa*
+.terraform*
+terraform.tfvars*
+terraform.tfstate*
